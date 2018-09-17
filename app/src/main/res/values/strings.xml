@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">VideoIntro</string>
+    <string-array name="video_titles">
+        <item>Joe</item>
+        <item>Man on a Ledge</item>
+        <item>The Hunted</item>
+        <item>Lgor</item>
+        <item>Teeth</item>
+        <item>The Down that dreaded Sun</item>
+    </string-array>
+    
+    <string name="retrofit_network_error">Retrofit Network Error</string>
+    <string name="retrofit_internal_server_error">Internal Server Error</string>
+</resources>
